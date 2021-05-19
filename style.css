@@ -1,0 +1,22 @@
+body {
+  background-color: #1b1717;
+  font-family: ubuntu;
+  margin: 25px 50px;
+}
+
+.box {
+  width: 420px;
+  height: 100%;
+  background-color: #dddddd;
+  border-radius: 10px;
+  border: white 10px solid;
+  margin: 35px auto;
+  padding: 25px;
+}
+.split {
+  display: flex;
+  justify-content: space-between;
+}
+.container {
+  margin-top: 50px;
+}
